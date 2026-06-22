@@ -1,0 +1,11 @@
+Instructions
+
+The webpage below contains several errors.
+
+Your task is to:
+
+Identify all errors
+Fix all missing tags
+Make the webpage display correctly
+Save as:
+fixedpage.html

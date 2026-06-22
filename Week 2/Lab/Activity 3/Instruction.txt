@@ -1,0 +1,11 @@
+Instructions
+
+A working webpage has been provided below.
+
+Do NOT change the HTML structure.
+
+Modify only the specified content.
+
+Save as:
+
+studentprofile.html

@@ -1,0 +1,99 @@
+LABORATORY EXERCISE 1
+
+Introduction to HTML
+
+Objectives
+
+At the end of this laboratory activity, students should be able to:
+
+• Create a valid HTML document
+
+• Use basic HTML tags
+
+• Modify webpage content
+
+• Understand HTML document structure
+
+• Run webpages in a browser
+
+Activity 1 – Create an About Me Page
+
+Instructions
+
+Create a webpage named:
+
+aboutme.html
+
+Using the HTML document structure discussed in class.
+
+Your webpage should contain the following information:
+
+Personal Information
+
+• Full Name
+
+• Age
+
+• Course
+
+• Year Level
+
+• Address
+
+About Yourself
+
+Write a short paragraph containing:
+
+• Your hobbies
+
+• Your interests
+
+• Your favorite food
+
+• Your favorite movie or game
+
+• Your dream job
+
+Family Information
+
+Include:
+
+• Father's Name
+
+• Mother's Name
+
+• Number of Siblings
+
+• Brief description of your family
+
+Minimum Requirements
+
+Use the following tags:
+
+<html>
+<head>
+<title>
+<body>
+<h1>
+<h2>
+<p>
+
+Expected Output Example
+
+John Doe
+
+Personal Information
+
+Age: 18
+
+Course: BSIT
+
+Address: Quezon City
+
+About Me
+
+I enjoy playing basketball and video games...
+
+Family Information
+
+My father is...
